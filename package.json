@@ -1,0 +1,12 @@
+{
+  "name": "html-css",
+  "version": "1.0.0",
+  "description": "html css tu hoc",
+  "main": "index.js",
+  "author": "giangtb",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chartjs": "^0.3.24"
+  }
+}

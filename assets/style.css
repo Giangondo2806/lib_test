@@ -1,0 +1,21 @@
+.transition-test {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+   
+}
+
+
+.rect  {
+    width: 100px;
+    height: 100px;
+}
+
+
+.container {
+    width: 480px;
+    gap: 20px;
+    height: 480px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
